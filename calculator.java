@@ -20,7 +20,7 @@ class calculator {
     public int mod(int num1, int num2) {
         return num1 % num2;
     }
-
+//driven code
     public static void main(String[] args) {
         calculator c = new calculator();
         Scanner sc = new Scanner(System.in);
