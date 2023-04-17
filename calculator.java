@@ -1,4 +1,4 @@
-// Basic Java
+// Basic Java Calculator
 import java.util.Scanner;
 
 class calculator {
