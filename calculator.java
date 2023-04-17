@@ -26,7 +26,7 @@ class calculator {
         calculator c = new calculator();
         Scanner sc = new Scanner(System.in);
         System.out.println("Which Operation You want to perform?");
-        boolean flag = true;
+        boolean flag = true;   //for unlimited calculations
         while (flag) {
             System.out.println("1. Sum\n2. Substraction\n3. Multiplication\n4. Division \n5. Find Modulus\n");
             System.out.println("Please, Enter your choice: ");
